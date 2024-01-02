@@ -2,17 +2,11 @@
 
 ## Author
 - **Name:** Keshav Agarwal
-- **Roll No:** MT2023114
-
-## International Institute of Information Technology, Bangalore
 - **Course:** CS-513 System Software
 - **Project:** Mini Project
 
 ## Project Description
 The "Academia" project aims to design and develop a user-friendly and multifunctional course registration portal. This portal is intended to be used by students, faculty, and administrators to manage course information, student details, and faculty information. It incorporates features such as secure login systems, user roles, administrative access control, and concurrent access for multiple users.
-
-## Project Functionalities
-The Academia Portal should have the following functionalities:
 
 ### General Features
 - All student and faculty details, as well as course information, are stored in files.
